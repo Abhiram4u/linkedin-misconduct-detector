@@ -65,3 +65,8 @@ python src/code.ipynb
 
 # Step 2: Run Misconduct Detection
 python src/code.ipynb
+```
+
+## 🔗 Connect
+- GitHub: [github.com/yourusername](https://github.com/Abhiram4u)
+- LinkedIn: [linkedin.com/in/YOURNAME](linkedin.com/in/abhiram06o9)
