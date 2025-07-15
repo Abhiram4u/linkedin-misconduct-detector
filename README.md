@@ -69,4 +69,4 @@ python src/code.ipynb
 
 ## 🔗 Connect
 - GitHub: [github.com/yourusername](https://github.com/Abhiram4u)
-- LinkedIn: [linkedin.com/in/YOURNAME](linkedin.com/in/abhiram06o9)
+- LinkedIn: [linkedin.com/in/YOURNAME](https://www.linkedin.com/in/abhiram06o9)
